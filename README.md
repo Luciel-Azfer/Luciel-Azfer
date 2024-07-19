@@ -1,9 +1,16 @@
 <h1 align="center">Aprendendo/Learning</h1>
-<h3 align="center">César 3000</h3>
-![Uma Screenshot de 'César 3000'](https://github.com/user-attachments/assets/11254233-1420-4c4d-b0ed-5e27fa4d6a50)
-<h1 align="center">Sobre mim/About me</h1>
-<h2 align="center">Nome de Usuário/Username</h2>
-<h3 align="center">Luciel</h3>
+<div align="center">
+  <h3>César 3000</h3>
+  <img src="https://imgur.com/2vh69tQ.png" alt="Uma screenshot de um programa de decriptografar Cifra de César sendo usada para criptografar uma frase">
+  <img src="https://imgur.com/diAFqxA.png" alt="Uma segunda screenshot de um programa de decriptografar Cifra de César sendo usada para descriptografar uma frase">
+</div>
+<div align="center">
+- 👋 Meu nome de usuário é Luciel! My username is Luciel! <br>
+- 👀 Tenho interesse em desenhar e videogames! I’m interested in drawing and videogames! <br>
+- 🌱 Estou atualmente aprendendo a programar! I’m currently learning how to program! <br>
+- 😄 Pronouns: Qualquer um! Any! <br>
+- ⚡ Fun fact: I have a lot of cats! I also know a lot of English and Portuguese! <br>
+</div>
 
 
 <!---
